@@ -1,0 +1,15 @@
+C:\Users\billionaire\Documents\Projects\w3resource-exercises\basic-exercises\Exercise8\bin\Debug\net8.0\Exercise8.exe
+C:\Users\billionaire\Documents\Projects\w3resource-exercises\basic-exercises\Exercise8\bin\Debug\net8.0\Exercise8.deps.json
+C:\Users\billionaire\Documents\Projects\w3resource-exercises\basic-exercises\Exercise8\bin\Debug\net8.0\Exercise8.runtimeconfig.json
+C:\Users\billionaire\Documents\Projects\w3resource-exercises\basic-exercises\Exercise8\bin\Debug\net8.0\Exercise8.dll
+C:\Users\billionaire\Documents\Projects\w3resource-exercises\basic-exercises\Exercise8\bin\Debug\net8.0\Exercise8.pdb
+C:\Users\billionaire\Documents\Projects\w3resource-exercises\basic-exercises\Exercise8\obj\Debug\net8.0\Exercise8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\billionaire\Documents\Projects\w3resource-exercises\basic-exercises\Exercise8\obj\Debug\net8.0\Exercise8.AssemblyInfoInputs.cache
+C:\Users\billionaire\Documents\Projects\w3resource-exercises\basic-exercises\Exercise8\obj\Debug\net8.0\Exercise8.AssemblyInfo.cs
+C:\Users\billionaire\Documents\Projects\w3resource-exercises\basic-exercises\Exercise8\obj\Debug\net8.0\Exercise8.csproj.CoreCompileInputs.cache
+C:\Users\billionaire\Documents\Projects\w3resource-exercises\basic-exercises\Exercise8\obj\Debug\net8.0\Exercise8.sourcelink.json
+C:\Users\billionaire\Documents\Projects\w3resource-exercises\basic-exercises\Exercise8\obj\Debug\net8.0\Exercise8.dll
+C:\Users\billionaire\Documents\Projects\w3resource-exercises\basic-exercises\Exercise8\obj\Debug\net8.0\refint\Exercise8.dll
+C:\Users\billionaire\Documents\Projects\w3resource-exercises\basic-exercises\Exercise8\obj\Debug\net8.0\Exercise8.pdb
+C:\Users\billionaire\Documents\Projects\w3resource-exercises\basic-exercises\Exercise8\obj\Debug\net8.0\Exercise8.genruntimeconfig.cache
+C:\Users\billionaire\Documents\Projects\w3resource-exercises\basic-exercises\Exercise8\obj\Debug\net8.0\ref\Exercise8.dll
