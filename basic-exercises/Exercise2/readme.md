@@ -3,8 +3,8 @@
 
 # Sample Output:
 ---
-> Enter a number
-5
-Enter b number
-6
-6 plus 5 is 11
+>Enter a number
+>5
+>Enter b number
+>6
+>6 plus 5 is 11
