@@ -1,0 +1,15 @@
+C:\Users\billionaire\Documents\Projects\w3resource-exercises\basic-exercises\Exercise17\obj\Debug\net8.0\Exercise17.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\billionaire\Documents\Projects\w3resource-exercises\basic-exercises\Exercise17\obj\Debug\net8.0\Exercise17.AssemblyInfoInputs.cache
+C:\Users\billionaire\Documents\Projects\w3resource-exercises\basic-exercises\Exercise17\obj\Debug\net8.0\Exercise17.AssemblyInfo.cs
+C:\Users\billionaire\Documents\Projects\w3resource-exercises\basic-exercises\Exercise17\obj\Debug\net8.0\Exercise17.csproj.CoreCompileInputs.cache
+C:\Users\billionaire\Documents\Projects\w3resource-exercises\basic-exercises\Exercise17\obj\Debug\net8.0\Exercise17.sourcelink.json
+C:\Users\billionaire\Documents\Projects\w3resource-exercises\basic-exercises\Exercise17\bin\Debug\net8.0\Exercise17.exe
+C:\Users\billionaire\Documents\Projects\w3resource-exercises\basic-exercises\Exercise17\bin\Debug\net8.0\Exercise17.deps.json
+C:\Users\billionaire\Documents\Projects\w3resource-exercises\basic-exercises\Exercise17\bin\Debug\net8.0\Exercise17.runtimeconfig.json
+C:\Users\billionaire\Documents\Projects\w3resource-exercises\basic-exercises\Exercise17\bin\Debug\net8.0\Exercise17.dll
+C:\Users\billionaire\Documents\Projects\w3resource-exercises\basic-exercises\Exercise17\bin\Debug\net8.0\Exercise17.pdb
+C:\Users\billionaire\Documents\Projects\w3resource-exercises\basic-exercises\Exercise17\obj\Debug\net8.0\Exercise17.dll
+C:\Users\billionaire\Documents\Projects\w3resource-exercises\basic-exercises\Exercise17\obj\Debug\net8.0\refint\Exercise17.dll
+C:\Users\billionaire\Documents\Projects\w3resource-exercises\basic-exercises\Exercise17\obj\Debug\net8.0\Exercise17.pdb
+C:\Users\billionaire\Documents\Projects\w3resource-exercises\basic-exercises\Exercise17\obj\Debug\net8.0\Exercise17.genruntimeconfig.cache
+C:\Users\billionaire\Documents\Projects\w3resource-exercises\basic-exercises\Exercise17\obj\Debug\net8.0\ref\Exercise17.dll
