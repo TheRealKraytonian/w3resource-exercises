@@ -8,6 +8,6 @@ public class exercise18
 		int x = int.Parse(Console.ReadLine());
 		Console.WriteLine("input second integer:");
 		int y = int.Parse(Console.ReadLine());
-		 Console.WriteLine((x < 0 && y > 0) || (x > 0 && y < 0));
+        Console.WriteLine((x < 0 && y > 0) || (x > 0 && y < 0));
 	}
 }
