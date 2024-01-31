@@ -1,2 +1,10 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using System;
+
+public class Exercise24
+{
+	public static void Main()
+	{
+
+	}
+
+}

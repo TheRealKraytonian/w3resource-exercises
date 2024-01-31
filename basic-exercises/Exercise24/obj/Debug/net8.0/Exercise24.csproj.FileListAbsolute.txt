@@ -1,0 +1,15 @@
+C:\Users\billionaire\Documents\Projects\w3resource-exercises\basic-exercises\Exercise24\obj\Debug\net8.0\Exercise24.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\billionaire\Documents\Projects\w3resource-exercises\basic-exercises\Exercise24\obj\Debug\net8.0\Exercise24.AssemblyInfoInputs.cache
+C:\Users\billionaire\Documents\Projects\w3resource-exercises\basic-exercises\Exercise24\obj\Debug\net8.0\Exercise24.AssemblyInfo.cs
+C:\Users\billionaire\Documents\Projects\w3resource-exercises\basic-exercises\Exercise24\obj\Debug\net8.0\Exercise24.csproj.CoreCompileInputs.cache
+C:\Users\billionaire\Documents\Projects\w3resource-exercises\basic-exercises\Exercise24\obj\Debug\net8.0\Exercise24.sourcelink.json
+C:\Users\billionaire\Documents\Projects\w3resource-exercises\basic-exercises\Exercise24\bin\Debug\net8.0\Exercise24.exe
+C:\Users\billionaire\Documents\Projects\w3resource-exercises\basic-exercises\Exercise24\bin\Debug\net8.0\Exercise24.deps.json
+C:\Users\billionaire\Documents\Projects\w3resource-exercises\basic-exercises\Exercise24\bin\Debug\net8.0\Exercise24.runtimeconfig.json
+C:\Users\billionaire\Documents\Projects\w3resource-exercises\basic-exercises\Exercise24\bin\Debug\net8.0\Exercise24.dll
+C:\Users\billionaire\Documents\Projects\w3resource-exercises\basic-exercises\Exercise24\bin\Debug\net8.0\Exercise24.pdb
+C:\Users\billionaire\Documents\Projects\w3resource-exercises\basic-exercises\Exercise24\obj\Debug\net8.0\Exercise24.dll
+C:\Users\billionaire\Documents\Projects\w3resource-exercises\basic-exercises\Exercise24\obj\Debug\net8.0\refint\Exercise24.dll
+C:\Users\billionaire\Documents\Projects\w3resource-exercises\basic-exercises\Exercise24\obj\Debug\net8.0\Exercise24.pdb
+C:\Users\billionaire\Documents\Projects\w3resource-exercises\basic-exercises\Exercise24\obj\Debug\net8.0\Exercise24.genruntimeconfig.cache
+C:\Users\billionaire\Documents\Projects\w3resource-exercises\basic-exercises\Exercise24\obj\Debug\net8.0\ref\Exercise24.dll
