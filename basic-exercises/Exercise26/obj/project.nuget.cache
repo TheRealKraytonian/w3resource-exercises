@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "1EvdbOYV6NmTI172jWEVfEvjLMhH0p1NiCa2ZQqb+40brju0vgL2DK/bMiY3Ha5RD1zkCk5vHogTWhdUWST4GQ==",
+  "dgSpecHash": "tHNE4UtC0je9/etVud6/oFYxAQwTZD+Cc5lX9TfgY6e3P7gD0+bqsWlDiG+N3OiKr6nvnVWPKZE+6CfSewpTIw==",
   "success": true,
   "projectFilePath": "C:\\Users\\billionaire\\Documents\\Projects\\w3resource-exercises\\basic-exercises\\Exercise26\\Exercise26.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\billionaire\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.1\\microsoft.netcore.app.ref.8.0.1.nupkg.sha512",
+    "C:\\Users\\billionaire\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.1\\microsoft.windowsdesktop.app.ref.8.0.1.nupkg.sha512",
+    "C:\\Users\\billionaire\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.1\\microsoft.aspnetcore.app.ref.8.0.1.nupkg.sha512",
+    "C:\\Users\\billionaire\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.1\\microsoft.netcore.app.host.win-x64.8.0.1.nupkg.sha512"
+  ],
   "logs": []
 }

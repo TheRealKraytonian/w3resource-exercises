@@ -1,0 +1,5 @@
+C:\Users\billionaire\Documents\Projects\w3resource-exercises\basic-exercises\Exercise27\obj\Debug\net8.0\Exercise27.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\billionaire\Documents\Projects\w3resource-exercises\basic-exercises\Exercise27\obj\Debug\net8.0\Exercise27.AssemblyInfoInputs.cache
+C:\Users\billionaire\Documents\Projects\w3resource-exercises\basic-exercises\Exercise27\obj\Debug\net8.0\Exercise27.AssemblyInfo.cs
+C:\Users\billionaire\Documents\Projects\w3resource-exercises\basic-exercises\Exercise27\obj\Debug\net8.0\Exercise27.csproj.CoreCompileInputs.cache
+C:\Users\billionaire\Documents\Projects\w3resource-exercises\basic-exercises\Exercise27\obj\Debug\net8.0\Exercise27.sourcelink.json
